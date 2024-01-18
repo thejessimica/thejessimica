@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hatosaurus
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning and absorbing it all
-- 💞️ I’m looking to collaborate on anything on which I can learn
+- 👋 Hi, I’m Jessica!
+- 👀 I’m a Python developer
+- 🌱 I’m always learning and absorbing it all
+- 💞️ I’m currently looking for full-time work
 - 📫 Feel free to message
 
 <!---
