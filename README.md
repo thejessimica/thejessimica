@@ -2,7 +2,7 @@
 - 👀 I’m a Python developer
 - 🌱 I’m always learning and absorbing it all
 - 💞️ I’m currently looking for full-time work
-- 📫 Feel free to message
+- 📫 hello@jessicaschmidt.ca
 
 <!---
 hatosaurus/hatosaurus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
